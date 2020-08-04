@@ -56,7 +56,7 @@ end
 #copy and past the monopoly hash you build in the previous method. We're going to add stuff to it here!
 #1st key of the :reading_railroad hash to a string, 'mortgage_value', whose value is '$100'
 #1st key of the :pennsylvania_railroad hash to a string, 'mortgage_value', whose value is '$200'
-#
+#1st key of the :b_and_o_railroad hash to a string, 'mortgage_value', whose value is '$400'
 #
 
 def monopoly_with_fourth_tier
