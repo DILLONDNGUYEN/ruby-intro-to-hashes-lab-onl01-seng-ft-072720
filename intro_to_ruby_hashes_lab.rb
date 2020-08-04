@@ -54,7 +54,7 @@ def monopoly_with_third_tier
 end
 
 #copy and past the monopoly hash you build in the previous method. We're going to add stuff to it here!
-#
+#1st key of the :reading_railroad hash to a string, 'mortgage_value', whose value is '$100'
 #
 #
 #
